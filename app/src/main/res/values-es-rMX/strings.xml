@@ -40,6 +40,4 @@
     <string name="prompt_email">Correo</string>
     <string name="prompt_username">Usuario</string>
     <string name="prompt_password">Contraseña</string>
-    <string name="prompt_role">R</string>
-    <string name="prompt_confirm_password">C</string>
 </resources>

@@ -12,6 +12,7 @@ import com.google.firebase.ktx.Firebase
 import org.jitsi.meet.sdk.JitsiMeetActivity
 import org.jitsi.meet.sdk.JitsiMeetConferenceOptions
 import org.jitsi.meet.sdk.JitsiMeetUserInfo
+import timber.log.Timber
 import java.net.URL
  class MeetingActivity : JitsiMeetActivity() {
     private lateinit var auth: FirebaseAuth
