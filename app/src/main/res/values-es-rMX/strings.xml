@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatandstreamingapp</string>
+    <string name="prompt_confirm_password">Confirmar contra</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_verify_email">Verificar correo</string>
+    <string name="action_register">Registrarse</string>
+    <string name="hello_blank_fragment">Hola fragment vacio</string>
+    <string name="join_meeting">Entrar a la sala</string>
+    <string name="settings">Ajustes</string>
+
+    <string-array name="role_array">
+        <item>Cliente</item>
+        <item>Restaurante</item>
+    </string-array>
+    <string-array name="language_array">
+        <item>Español</item>
+        <item>English</item>
+    </string-array>
+    <string name="settings_fragment_label">Ajustes</string>
+    <string name="language_summary">Elige el lenguaje de la app</string>
+    <string name="lang">Lenguaje</string>
+    <string name="prompt_role">Rol de usuario</string>
+    <string name="client">Cliente</string>
+    <string name="restaurant">Restaurante</string>
+    <string name="home_username">Usuario: %1$s</string>
+    <string name="home_role">Rol: %1$s</string>
+    <string name="dialog_verification">Verificación</string>
+    <string name="dialog_verification_message_error">Por favor verifica tu email</string>
+    <string name="dialog_verification_message_instructions">Cuenta registrada, por favor verifica tu email</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_logout">Salir</string>
+    <string name="first_fragment_label">Entrar</string>
+    <string name="second_fragment_label">Registrarse</string>
+    <string name="home_fragment_label">Inicio</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="hello_first_fragment">Hola primer fragment</string>
+    <string name="hello_second_fragment">Hola segundo fragment Arg: %1$s</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_username">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_role">R</string>
+    <string name="prompt_confirm_password">C</string>
+</resources>

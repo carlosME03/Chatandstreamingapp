@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180810815481",
+    "project_id": "chatandstreamingapp",
+    "storage_bucket": "chatandstreamingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180810815481:android:5e87e43914786c86334f28",
+        "android_client_info": {
+          "package_name": "com.example.chatandstreamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180810815481-jsl8gpph2tad6bk9iucj3tuc4nbfmluq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJhdB9z9QeqYRyZnMXSUa5XVpvumMo7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180810815481-jsl8gpph2tad6bk9iucj3tuc4nbfmluq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
