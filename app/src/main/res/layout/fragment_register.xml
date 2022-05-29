@@ -5,10 +5,6 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingLeft="@dimen/material_emphasis_medium"
-    android:paddingTop="@dimen/material_emphasis_medium"
-    android:paddingRight="@dimen/material_emphasis_medium"
-    android:paddingBottom="@dimen/material_emphasis_medium"
     tools:context=".MainActivity">
 
     <EditText
@@ -24,7 +20,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:importantForAutofill="no" />
+         />
 
     <EditText
         android:id="@+id/email"
@@ -39,7 +35,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/username"
-        android:importantForAutofill="no" />
+         />
 
     <EditText
         android:id="@+id/password"
@@ -55,7 +51,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/email"
-        android:importantForAutofill="no" />
+         />
 
 
     <EditText
@@ -72,7 +68,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/password"
-        android:importantForAutofill="no" />
+         />
 
     <Spinner
         android:id="@+id/role_spinner"
@@ -101,7 +97,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/role_spinner"
-        app:layout_constraintVertical_bias="0.2" />
+         />
 
 
     <ProgressBar
@@ -118,5 +114,5 @@
         app:layout_constraintEnd_toEndOf="@+id/password"
         app:layout_constraintStart_toStartOf="@+id/password"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.3" />
+         />
 </androidx.constraintlayout.widget.ConstraintLayout>

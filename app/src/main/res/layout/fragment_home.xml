@@ -5,10 +5,6 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingLeft="@dimen/material_emphasis_medium"
-    android:paddingTop="@dimen/material_emphasis_medium"
-    android:paddingRight="@dimen/material_emphasis_medium"
-    android:paddingBottom="@dimen/material_emphasis_medium"
     tools:context=".MainActivity">
 
     <TextView

@@ -8,6 +8,7 @@
     <string name="hello_blank_fragment">Hola fragment vacio</string>
     <string name="join_meeting">Entrar a la sala</string>
     <string name="settings">Ajustes</string>
+    <string name="rol">Rol</string>
 
     <string-array name="role_array">
         <item>Cliente</item>
